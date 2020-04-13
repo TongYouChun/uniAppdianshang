@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "鉴定服务",
+  "usingComponents": {
+    "service": "/components/index/service"
+  }
+}

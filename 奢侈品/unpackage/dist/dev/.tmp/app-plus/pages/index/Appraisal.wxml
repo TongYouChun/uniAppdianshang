@@ -1,0 +1,1 @@
+<view class="Appraisal flex-column height"><view class="Content flex-column flex-overflow"><service vue-id="1" ContentTexT="{{ContentTexT}}" bind:__l="__l"></service></view></view>

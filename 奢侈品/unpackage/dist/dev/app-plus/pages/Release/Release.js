@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"Release { background: #F5F5F5; }\n.",[1],"Release .",[1],"li { width: 100%; height: ",[0,184],"; background: #FFFFFF; margin: ",[0,20]," 0 ",[0,30]," 0; }\n.",[1],"Release .",[1],"li .",[1],"ing { margin: 0 ",[0,32]," 0 ",[0,65],"; width: ",[0,95],"; height: ",[0,95],"; }\n",],undefined,{path:"./pages/Release/Release.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Release/Release.wxml') } }));

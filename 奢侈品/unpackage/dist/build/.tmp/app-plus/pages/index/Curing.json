@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "养护服务",
+  "usingComponents": {
+    "curing": "/components/index/Curing"
+  }
+}

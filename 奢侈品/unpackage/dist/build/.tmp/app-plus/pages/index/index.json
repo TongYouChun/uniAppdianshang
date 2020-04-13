@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "奢侈品",
+  "usingComponents": {
+    "homepage": "/components/index/Homepage"
+  }
+}

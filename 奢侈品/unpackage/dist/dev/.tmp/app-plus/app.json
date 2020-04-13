@@ -1,0 +1,74 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/Appraisal",
+    "pages/My/Appraisal/Appraisal",
+    "pages/Shopping/Shopping",
+    "pages/index/Curing",
+    "pages/My/My",
+    "pages/My/Zhaohuo/Zhaohuo",
+    "pages/My/Purchase/Purchase",
+    "pages/My/Data/Data",
+    "pages/My/Shezhi/Shezhi",
+    "pages/Release/Release",
+    "pages/classification/classification",
+    "components/index/Curing",
+    "components/index/Homepage",
+    "components/index/service",
+    "components/My/purchase/whole",
+    "components/My/purchase/Payment",
+    "components/My/Appraisal/Picture",
+    "components/My/Appraisal/Thing"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "奢侈品",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#101010",
+    "selectedColor": "#FF9300",
+    "list": [
+      {
+        "iconPath": "/static/backup_slices/caidanlan/shoye(1).png",
+        "selectedIconPath": "/static/backup_slices/caidanlan/shoye.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "/static/backup_slices/caidanlan/fenlei(1).png",
+        "selectedIconPath": "/static/backup_slices/caidanlan/fenlei.png",
+        "pagePath": "pages/classification/classification",
+        "text": "分类"
+      },
+      {
+        "iconPath": "/static/backup_slices/caidanlan/fabu(1).png",
+        "selectedIconPath": "/static/backup_slices/caidanlan/fabu.png",
+        "pagePath": "pages/Release/Release",
+        "text": "发布"
+      },
+      {
+        "iconPath": "/static/backup_slices/caidanlan/gouwu(1).png",
+        "selectedIconPath": "/static/backup_slices/caidanlan/gouwu.png",
+        "pagePath": "pages/Shopping/Shopping",
+        "text": "购物"
+      },
+      {
+        "iconPath": "/static/backup_slices/caidanlan/wude(1).png",
+        "selectedIconPath": "/static/backup_slices/caidanlan/wude.png",
+        "pagePath": "pages/My/My",
+        "text": "我的"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "奢侈品",
+  "compilerVersion": "2.5.1",
+  "usingComponents": {}
+}

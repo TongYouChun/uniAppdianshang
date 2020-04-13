@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "分类专区",
+  "usingComponents": {
+    "brand": "/components/classification/Brand",
+    "popular": "/components/classification/Popular",
+    "package": "/components/classification/Package",
+    "surface": "/components/classification/Surface",
+    "jewellery": "/components/classification/Jewellery",
+    "shoes": "/components/classification/Shoes",
+    "used": "/components/classification/Used"
+  }
+}
